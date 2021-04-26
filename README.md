@@ -1,6 +1,5 @@
 # :fire: Json Server Placeholder :fire:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [TailwindCSS](https://tailwindcss.com)
 
 ## Available Scripts
 
